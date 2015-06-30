@@ -22,7 +22,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    //git test
     //设置子控制器
     HomeViewController *home = [[HomeViewController alloc ]init];
     [self addChildVC:home Title:@"首页" image:@"tabbar_home" selectedImage:@"tabbar_home_selected"];
