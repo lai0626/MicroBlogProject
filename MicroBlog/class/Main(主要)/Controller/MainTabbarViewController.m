@@ -5,8 +5,7 @@
 //  Created by lai on 15/6/26.
 //  Copyright (c) 2015年 laiweihuang. All rights reserved.
 //
-// 这句话没有用，可以删掉
-// branch Test
+// 这句话没有用，可以删掉，测试gitHub使用的
 #import "MainTabbarViewController.h"
 #import "MessageViewController.h"
 #import "ProfileViewController.h"
